@@ -107,6 +107,8 @@ gradlew.bat assembleDebug
 | 게시글 수정      | PATCH  | /api_root/Post/{id}/        |
 | 게시글 삭제      | DELETE | /api_root/Post/{id}/        |
 | 게시글 검색      | GET    | /api/posts/search/?q={query} |
+- 모든 기능은 토큰 기반 인증을 바탕으로 함
+- Token 인증에 오류가 생길 경우 토큰 발급 api에 username: admin, password: myblog1008을 넣어 토큰을 재발급 받아볼 것(혹은 superuser로 id/pw 재생성 후 재발급)
 
 
 ## 🛠️ 사용 기술
