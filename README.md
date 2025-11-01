@@ -35,6 +35,10 @@ ImageBlog-Android/
 │       └── AuthHelper.java
 ```
 
+### 참고
+- 백엔드 GitHub: [django-imageBlog](https://github.com/seohyunlee-coding/django-imageBlog)
+- Android 클라이언트 GitHub: [seohyunlee-coding-django-imageBlog-Android](https://github.com/seohyunlee-coding/seohyunlee-coding-django-imageBlog-Android)
+
 ## ⚙️ 설치 및 실행
 ### 1️⃣ Python Image Blog (백엔드)
 ### Python 버전 확인
