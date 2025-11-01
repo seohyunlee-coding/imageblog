@@ -60,6 +60,11 @@ python -m venv .\venv
 venv\Scripts\activate
 ```
 
+### 필요한 라이브러리 설치
+```bash
+pip install "django==5.2.7" djangorestframework pillow
+```
+
 ### 데이터베이스 마이그레이션
 ```bash
 python manage.py migrate
